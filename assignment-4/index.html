@@ -117,10 +117,6 @@
     </tr>
   </form>
 <form>
-  <p><input type="text" name="username" id="username_input" placeholder="First Name" /></p>
-  <p><input type="text" name="username" id="username_input" placeholder="Middle Initial" size="1"/></p>
-  <p><input type="text" name="username" id="username_input" placeholder="Last Name"/></P>
-    </br>
   <p>Programs for Registration:</p>
     <input type="checkbox" name="programs" value="Kampfires" /> Kampfires
       <br/>
@@ -149,6 +145,7 @@
 </form>
 
   <br/>
+<form>
     <p>Cost Options:</p>
       <input type="radio" name="cost" value="1 program"/> 1 Program ($50)
       <br/>
@@ -160,9 +157,33 @@
       <br/>
       <input type="radio" name="cost" value="5 programs"/> 5 Programs ($200)
       <br/>
-      <input type="radio" name="cost" value="Komplete Package"/> Komplete Package: 6 Programs ($225)
+      <input type="radio" name="cost" value="Komplete Package" checked/> Komplete Package: 6 Programs ($225)
       <br/>
       <input type="radio" name="cost" value="Soccer Program ONLY ($25)"/> Kickers Soccer Program ONLY ($25)
+</form>
+<form>
+<fieldset>
+  <legend>"registration Information"</legend>
+      <p><input type="text" name="username" id="username_input" placeholder="First Name" /></p>
+      <p><input type="text" name="username" id="username_input" placeholder="Middle Initial" size="1"/></p>
+      <p><input type="text" name="username" id="username_input" placeholder="Last Name"/></P>
+      <label for="dob">Child's Date of Birth:</label>
+    <br/>
+  <form action="http://www.example.com/" method="get" id="childs-dob" class="basic-forms">
+    <input type="date" name="dob" id="dob" />
+    <br/>
+        <br/>
+      <p>Email Address:</p>
+      <form action="http://www.example.com/" method="get" id="guardian-email" class="basic-forms">
+      <input type="email" name="email" required/>
+    <br/>
+    <br/>
+      <p>Comments or Concerns:</p>
+      <textarea name="comments" id="test-textarea">Enter up to 500 characters...</textarea>
+    <br/>
+    <br/>
+      <input type="submit" value="Submit" />
+  </fieldset>
 </form>
   </body>
 </html>
