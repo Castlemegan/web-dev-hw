@@ -1,4 +1,4 @@
-# Read me for assignment 4
+# Readme for Assignment 4
 Alt text is a way to describe the image on the webpage without being able to see it. It is used for visually impaired users. Without being able to see or decipher the image-- the alt text allows for an alternative form of describing the image.
 
 Forms are used in arguably most web pages. I would say potentially the most common use of a form is a login page. A log in page is essential for basically all web pages now including email, credit card sites, bank accounts and even social media. even for school! Other types of forms include things like subscription entries, surveys, log ins and any type of participatory element to a webpage.
