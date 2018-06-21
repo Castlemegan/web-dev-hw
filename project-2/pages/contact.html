@@ -10,8 +10,10 @@
 
     <style>
       body {background-color: lightgray ;
-      text-align: center;}.container
-      {background-image: url(./images/river_background.jpg);
+      text-align: left;}.container
+      img {
+        float: right;
+      }
       width: 600px;
       margin: auto;
       padding: 20px;
@@ -34,7 +36,12 @@
         <legend>Contact Information</legend>
         </br>
           <p><input type="text" name="username" id="username_input" placeholder="Name" /></p>
-
+      <figure>
+        <img src="./images/salmon.jpg" alt="an image of site author salmon fishing" title="salmon fishing" width="500" height="800"/>
+        <figcaption>
+          <p>Silver salmon Fishing in Kodiak, Alaska.</p>
+        </figcaption>
+      </figure>
         <p>Email Address:</p>
         <form action="http://www.example.com/" method="get" id="email" class="basic-forms">
         <input type="email" name="email" placeholder="example@site.com" required/>
