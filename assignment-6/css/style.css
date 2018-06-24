@@ -1,6 +1,6 @@
 
 body {
-  background-image: url("./images/1960s-03.png");
+  background-image: url("../images/1960s-03.png");
   font-family: arial;
   }
 
@@ -10,7 +10,7 @@ body {
 
   header, footer {
      background-color: #EE274B;
-     padding: 35px;
+     padding: 20px;
      font-family: Arial;
      color: white;
   }
@@ -22,7 +22,7 @@ body {
   }
 
   main {
-     background-image: url(./image/1960s-03.png);
+     background-color: #F9FBF2;
      width: 70%;
      float: left;
   }
