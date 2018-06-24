@@ -1,26 +1,35 @@
-body {
-  background-image: url("..images/1960s-03.png");
-  font-family: arial;
+  body {
+     background-image: url(./images/1960s-03.png);
+     padding: 10px;
   }
-.main-container{
-  background-color: #FCBA12;
-  color:white
-  font-size:48
-  width: 1000px;
-  height: 1000px;
-  position: absolute;
-  top: 15px;
-  border-style: solid;
-  border-width: 2px;
-  border-color: #FFEDE1;
-  padding: 10px;
-}
 
-#stripe-1 {
-  background-color: #EE274B ;
-  width:400px;
-  height:200px;
-  position: absolute;
-  bottom:15px;
-  left: 15px;
-}
+  header, footer {
+     background-color: #EE274B;
+     padding: 35px;
+     font-family: Arial;
+     color: white;
+  }
+
+  .content {
+   /* Sets a row for inner pieces: */
+     width: 100%;
+     display: flex;
+  }
+
+  main {
+     background-color: #B1DFD8;
+     width: 70%;
+     height: 130px;
+     float: left;
+  }
+
+  aside {
+     background-color: #FCBA12;
+     width: 30%;
+     height: 130px;
+     float: left;
+  }
+
+  footer {
+     text-align: right;
+  }
