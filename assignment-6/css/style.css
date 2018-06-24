@@ -20,7 +20,7 @@ h1 {
 }
 
 h1+p {
-  background-color: #EE274B !important;
+  background-color: #EE274B;
   color:black;
   float:left;
   border-style: solid;
@@ -29,7 +29,7 @@ h1+p {
   padding: 15px;
 }
 p.styled{
-  background-color: #FFEDE1 !important;
+  background-color: #FFEDE1;
   /*added important note here*/
   color:black;
   float:left;
