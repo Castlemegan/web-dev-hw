@@ -1,0 +1,16 @@
+body {
+  background-image: url("./images/1960s-03.png");
+  font-family: arial;
+  }
+.main-container{
+  background-color: #FCBA12;
+  color:white
+}
+.stripe-1{
+  background-color:#EE274B
+  width: 250px;
+  height: 75px;
+  position: absolute;
+  left: 15px;
+  bottom: 30px;
+}
