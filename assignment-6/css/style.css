@@ -20,7 +20,7 @@ h1 {
 }
 
 h1+p {
-  background-color: #EE274B;
+  background-color: rgba(238,39,75,.5);
   color:black;
   float:left;
   border-style: solid;
