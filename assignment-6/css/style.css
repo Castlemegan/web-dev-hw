@@ -1,5 +1,5 @@
   body {
-     background-image: url(1960s-03.png);
+     background-color: #B1DFD8;
      padding: 10px;
   }
 
@@ -17,9 +17,8 @@
   }
 
   main {
-     background-color: #B1DFD8;
+     background-image: url(./image/1960s-03.png);
      width: 70%;
-     height: 130px;
      float: left;
   }
 
