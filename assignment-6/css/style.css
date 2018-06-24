@@ -15,25 +15,12 @@ body {
   border-color: #FFEDE1;
   padding: 10px;
 }
-.stripes {
-   width: 600px;
-   height: 400px;
-   position: absolute;
-   left: 10px;
-   bottom: 10px;
-}
-#stripe-1{
-  background-color: #EE274B
-  width: 250px;
-  height: 75px;
+
+#stripe-1 {
+  background-color: #EE274B ;
+  width:400px;
+  height:200px;
   position: absolute;
+  bottom:15px;
   left: 15px;
-  bottom: 30px;
 }
-#stripe-2{
-  background-color:#
-  width: 250px;
-  height: 75px;
-  position: absolute;
-  left: 15px;
-  bottom: 30px;
