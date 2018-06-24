@@ -1,5 +1,5 @@
 body {
-  background-image: url("1960s-03.png");
+  background-image: url("./images/1960s-03.png");
   font-family: arial;
   }
 .main-container{
@@ -24,6 +24,63 @@ h1 {
     border-width: 2px;
     background: #f1f1f1;
 }
+
+.canvas {
+   background-color: rgb(176,224,230);
+   border: 5px solid gray;
+   width: 300px;
+   height: 300px;
+   position: absolute;
+}
+
+.rainbow {
+   width: 280px;
+   height: 150px;
+   position: absolute;
+   /* If the rainbow is 280px wide and the canvas 300px total, (300-280)/2 = 10px on each side to horizontally center: */
+   left: 10px;
+   /* If the rainbow is 150px tall and the canvas 300px total, (300-150)/2 = 75px from bottom or top to vertically center: */
+   bottom: 75px;
+}
+.red {
+   background-color: red;
+   width: 40px;
+   height: 75px;
+   position: absolute;
+   /* Note that this is '0px' from the edge of the "rainbow" parent div, not the "canvas": */
+   left: 0;
+   bottom: 0;
+}
+.orange {
+   background-color: orange;
+   width: 40px;
+   height: 100px;
+   position: absolute;
+   left: 40px;
+   bottom: 0;
+}
+.yellow {
+   background-color: yellow;
+   width: 40px;
+   height: 125px;
+   position: absolute;
+   left: 80px;
+   bottom: 0;
+}
+.green {
+   background-color: green;
+   width: 40px;
+   height: 150px;
+   position: absolute;
+   left: 120px;
+   bottom: 0;
+}
+
+
+
+
+
+
 
 
 .stripes {
