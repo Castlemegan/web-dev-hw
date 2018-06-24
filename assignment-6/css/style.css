@@ -1,6 +1,6 @@
 
 body {
-  background-image: url("../images/1960s-03.png");
+  background-image: url("./images/1960s-03.png");
   font-family: arial;
   }
 
@@ -23,13 +23,13 @@ body {
 
   main {
      background-color: #F9FBF2;
-     width: 70%;
+     width: 60%;
      float: left;
   }
 
   aside {
-     background-image: url("1960s-03.png");
-     width: 30%;
+     background-image: #FCBA12;
+     width: 40%;
      height: 130px;
      float: left;
   }
