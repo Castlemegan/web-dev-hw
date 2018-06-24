@@ -27,16 +27,18 @@ h1+p {
   border-width: 2px;
   border-color: #f9fbf2;
   padding: 15px;
+  left:40px;
 }
 p.styled{
-  background-color: #FFEDE1;
-  /*added important note here*/
+  background-color: ##28295D;
+  /*border here*/
   color:black;
   float:left;
   border-style: solid;
   border-width: 2px;
   border-color: #f9fbf2;
   padding: 15px;
+  left: 40px;
 }
 #image-1 {
   width:600px;
