@@ -2,17 +2,22 @@
 body {
   background-color: #B1DFD8;
   font-family: arial;
+  color: black;
   }
 
-header {
+.header {
   background-color: #FCBA12;
-  color: white;
+  color: black;
   border-style: solid;
   border-width: 2px;
   border-color: #F9FBF2;
 }
 
-.paragraph-1 {
+div> p {
   background-color: #EE274B;
-  color:white;
+  color:black;
+  float:left;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #f9fbf2;
 }
