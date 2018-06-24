@@ -1,5 +1,5 @@
 body {
-  background-image: url("1960s-03.png");
+  background-image: url("../images/1960s-03.png");
   font-family: arial;
   }
 .main-container{
@@ -21,7 +21,7 @@ body {
 
 /* Select all h1 elements. */
 h1 {
-    
+
     border-style: solid;
     border-width: 2px;
     border-color: orange;
