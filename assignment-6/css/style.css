@@ -30,6 +30,7 @@ h1+p {
 }
 p.styled{
   background-color: #FFEDE1 !important;
+  /*added important note here*/
   color:black;
   float:left;
   border-style: solid;
