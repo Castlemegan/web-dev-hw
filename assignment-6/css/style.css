@@ -1,44 +1,13 @@
 
 body {
-  background-color: #B1DFD8
+  background-color: #B1DFD8;
   font-family: arial;
   }
 
-.main-container{
+header {
   background-color: #FCBA12;
-  color:white
-
-  header, footer {
-     background-color: #EE274B;
-     padding: 20px;
-     font-family: Arial;
-     color: white;
-  }
-
-  .content {
-
-     width: 100%;
-     display: flex;
-  }
-
-  main {
-     background-color: #F9FBF2;
-     width: 60%;
-     float: left;
-  }
-
-  aside {
-     background-image: #FCBA12;
-     width: 40%;
-     height: 130px;
-     float: left;
-  }
-
-  footer {
-     text-align: right;
-  }
-
-  .stripe-1 {
-    background-color: #FCBA12;
-    height: 200px;
-  }
+  color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #F9FBF2;
+}
