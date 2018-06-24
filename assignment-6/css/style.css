@@ -1,7 +1,12 @@
-  body {
-     background-color: #B1DFD8;
-     padding: 10px;
+
+body {
+  background-image: url("./images/1960s-03.png");
+  font-family: arial;
   }
+
+.main-container{
+  background-color: #FCBA12;
+  color:white
 
   header, footer {
      background-color: #EE274B;
