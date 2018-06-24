@@ -11,7 +11,33 @@ body {
   position: absolute;
   left: 15px;
   top: 15px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #FFEDE1;
+  padding: 10px;
+
+
 }
+
+/* Select all h1 elements. */
+h1 {
+    
+    border-style: solid;
+    border-width: 2px;
+    border-color: orange;
+    /* Set a unique background color. */
+    background: #f1f1f1;
+}
+
+/* Select ALL paragraph elements. */
+p {
+    border-style: solid;
+    border-width: 2px;
+    border-color: gold;
+    background: #f1f1f1;
+}
+
+
 .stripes {
    width: 600px;
    height: 400px;
@@ -20,10 +46,17 @@ body {
    bottom: 10px;
 }
 #stripe-1{
-  background-color:#EE274B
+  background-color: #EE274B
   width: 250px;
   height: 75px;
   position: absolute;
   left: 15px;
   bottom: 30px;
 }
+#stripe-2{
+  background-color:#
+  width: 250px;
+  height: 75px;
+  position: absolute;
+  left: 15px;
+  bottom: 30px;
