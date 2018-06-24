@@ -5,8 +5,9 @@ body {
 .main-container{
   background-color: #FCBA12;
   color:white
-  width: 350px;
-  height: 150px;
+  font-size:48
+  width: 1000px;
+  height: 1000px;
   position: absolute;
   left: 15px;
   top: 15px;
