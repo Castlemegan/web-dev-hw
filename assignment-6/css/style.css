@@ -20,7 +20,7 @@ h1 {
 }
 
 #paragraph-1 {
-  background-color: rgba(238,39,75,.5);
+  background-color: rgb(238,39,75);
   color:black;
   float:left;
   border-style: solid;
@@ -32,7 +32,7 @@ h1 {
 
 }
 p.styled{
-  background-color: #28295D;
+  background-color: rgba(36,36,91,.75);
   /*border here*/
   color:black;
   float:left;
