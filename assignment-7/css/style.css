@@ -3,12 +3,12 @@
 
 
 body {
-font-family: "Cormorant Garamond", serif;
+font-family: 'Raleway', sans-serif;
 }
 
 
-.heading-1 {
-  font-family: 'Raleway', sans-serif;
+#heading {
+  font-family: "Cormorant Garamond", serif;
   font-weight: lighter;
   text-align: center;
 }
