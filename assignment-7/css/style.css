@@ -12,3 +12,19 @@ font-family: "Cormorant Garamond", serif;
   font-weight: lighter;
   text-align: center;
 }
+
+.p1::first-letter{
+  font-size: 2em;
+}
+
+.button:hover {
+  color:#79AF33
+  font-style:normal;
+}
+.button:active {
+  background-color:white;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+
+}
