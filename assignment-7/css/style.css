@@ -1,16 +1,15 @@
 
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,400i,600i,700&subset=cyrillic,cyrillic-ext,latin-ext,vietnamese');
 
-*{
+body {
   font-family: 'Raleway', sans-serif;
 }
 
 #heading {
-  font-family: "Cormorant Garamond" , serif;
+  font-family: "Cormorant Garamond" , serif !important;
   font-weight: normal;
   text-align: center;
 }
 #p1 {
-  font-family: 'Raleway', sans-serif;
   font-style: italic;
 }
