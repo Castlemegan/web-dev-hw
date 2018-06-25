@@ -3,11 +3,15 @@
 
 
 
-* {
-  font-family: "Cormorant Garamond" , serif;
-  font-weight: normal;
+#heading {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: lighter;
   text-align: center;
 }
 #p1 {
   font-style: italic;
+}
+
+P {
+  font-family: 'Raleway', sans-serif;
 }
