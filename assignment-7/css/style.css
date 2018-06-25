@@ -17,7 +17,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.p1:first-letter{
+.p1::first-letter{
   font-size: 2em;
 }
 
