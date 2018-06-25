@@ -4,12 +4,13 @@
 
 body {
   font-family: "Cormorant Garamond", serif;
+  font-style: normal;
 }
 
 
 #heading {
   font-family: 'Raleway', sans-serif;
-  font-weight: lighter;
+  font-weight: normal;
   text-align: center;
 }
 
