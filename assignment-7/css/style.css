@@ -3,17 +3,14 @@
 
 
 body {
-  font-family: 'Raleway', sans-serif;
+font-family: "Cormorant Garamond", serif;
 }
 
 
 .heading-1 {
-  font-family: "Cormorant Garamond", serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: lighter;
   text-align: center;
-}
-#p1 {
-  font-style: italic;
 }
 
 body {
