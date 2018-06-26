@@ -33,7 +33,7 @@ body {
 
 .button:hover {
   background-color: #79AF33;
-  width:40px;
+  width:70px;
   height:25px;
   border-style: solid;
   border-width: 2px;
@@ -42,7 +42,7 @@ body {
 }
 .button:active {
   background-color: #79AF33;
-  width:40px;
+  width:70px;
   height:25px;
   border-style: solid;
   border-width: 2px;
