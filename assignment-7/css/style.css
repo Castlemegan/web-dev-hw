@@ -14,29 +14,29 @@ h1, h2 {
   text-align: center;
 }
 
-.heading-3 {
+#heading-3 {
   font-family: 'Raleway', sans-serif;
   letter-spacing: 0.02em;
   text-align: center;
   font-style: italic;
 }
 
-.main-content p:first-child::first-line{
+#p1 p::first-line{
   color: #79af33;
 }
 
-.main-content {
+#main-content {
   font-family: "Cormorant Garamond", serif;
   Font-style: normal;
   font-weight: normal;
 }
 
-button:hover {
+.button:hover {
   color:#79AF33
   font-style:normal;
 }
-button:active {
-  background-color:white;
+.button:active {
+  background-color:#79af33;
   border-style: solid;
   border-width: 2px;
   border-color: black;
