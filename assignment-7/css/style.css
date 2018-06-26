@@ -21,7 +21,7 @@ h1, h2 {
   font-style: italic;
 }
 
-#p1 p::first-line{
+#p1::first-line{
   color: #79af33;
 }
 
