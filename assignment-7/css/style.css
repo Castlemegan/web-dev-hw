@@ -15,18 +15,21 @@ h1, h2 {
 }
 
 .heading-3 {
+  font-family: 'Raleway', sans-serif;
   letter-spacing: 0.02em;
+  text-align: center;
+  font-style: italic;
 }
 
 .main-content p:first-child::first-line{
   color: #79af33;
 }
 
-.button:hover {
+button:hover {
   color:#79AF33
   font-style:normal;
 }
-.button:active {
+button:active {
   background-color:white;
   border-style: solid;
   border-width: 2px;
