@@ -25,6 +25,12 @@ h1, h2 {
   color: #79af33;
 }
 
+body {
+  font-family: "Cormorant Garamond", serif;
+  Font-style: normal;
+  font-weight: normal;
+}
+
 button:hover {
   color:#79AF33
   font-style:normal;
