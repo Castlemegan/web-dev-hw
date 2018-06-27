@@ -3,7 +3,10 @@
 
 * {
 font-family: 'Inconsolata', monospace, serif;
-background-color: #BAD9B5;
+}
+
+body {
+  background-color: #BAD9B5;
 }
 
 h1 {
@@ -19,10 +22,10 @@ text-align: center;
    placement: relative;
    left:30px;
    background-color: #f1bb87;
-   display: inline;
+   display: ;
 }
 
-.button {
+#button_link {
   border: 2px solid black;
   width: 30px
   height: 20px;
