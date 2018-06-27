@@ -22,6 +22,8 @@ text-align: center;
    placement: relative;
    left:30px;
    background-color: #f1bb87;
+   margin: 5%;
+   z-index: 0;
 }
 
 #button_link {
@@ -30,15 +32,19 @@ text-align: center;
   height: 20px;
   padding: .5em;
   background-color: #0BC9CD;
+  font-family: 'Pacifico', cursive; serif;
+  color: black;
   display: inline;
   position: relative;
   left: 1em;
 }
 
-.socialmedia_graphic {
+.socialmedia_graphic:hover {
+  color: #F78E69;
   width:80px;
   height:80px;
   position:absolute;
   right: 10px;
   top: 450px;
+  z-index: 2;
 }
