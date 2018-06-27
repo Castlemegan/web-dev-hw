@@ -22,7 +22,6 @@ text-align: center;
    placement: relative;
    left:30px;
    background-color: #f1bb87;
-   display: ;
 }
 
 #button_link {
@@ -32,4 +31,14 @@ text-align: center;
   padding: .5em;
   background-color: #0BC9CD;
   display: inline;
+  position: relative;
+  left: 1em;
+}
+
+.socialmedia_graphic {
+  width:80px;
+  height:80px;
+  position:absolute;
+  right: 10px;
+  top: 450px;
 }
