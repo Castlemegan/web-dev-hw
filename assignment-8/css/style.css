@@ -26,9 +26,10 @@ text-align: center;
    z-index: 0;
 }
 
-#button_link {
+#button_link: hover {
+  color: #F78E69;
   border: 2px solid black;
-  width: 30px
+  width: 30px;
   height: 20px;
   padding: .5em;
   background-color: #0BC9CD;
@@ -39,8 +40,7 @@ text-align: center;
   left: 1em;
 }
 
-.socialmedia_graphic:hover {
-  color: #F78E69;
+.socialmedia_graphic {
   width:80px;
   height:80px;
   position:absolute;
