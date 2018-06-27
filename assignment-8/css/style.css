@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Pacifico');
+
+* {
+font-family: 'Inconsolata', monospace, serif;
+background-color: #BAD9B5;
+}
+
+h1 {
+font-family: 'Pacifico', cursive; serif;
+text-style: normal;
+}
+.list {
+   border: 2px dotted black;
+   padding: 1em;
+   placement: relative;
+   left:30px;
+   background-color: #f1bb87;
+}
