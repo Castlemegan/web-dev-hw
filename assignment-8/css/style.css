@@ -19,7 +19,7 @@ text-align: center;
    placement: relative;
    left:30px;
    background-color: #f1bb87;
-   max-width: 300px;
+   display: inline;
 }
 
 .button {
@@ -28,6 +28,5 @@ text-align: center;
   height: 20px;
   padding: .5em;
   background-color: #0BC9CD;
-  max-width: 50px;
-
+  display: inline;
 }
