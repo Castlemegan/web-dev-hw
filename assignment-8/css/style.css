@@ -26,7 +26,7 @@ text-align: center;
    z-index: 0;
 }
 
-#button_link: hover {
+#button_link:hover {
   color: #F78E69;
   border: 2px solid black;
   width: 30px;
