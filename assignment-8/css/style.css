@@ -27,8 +27,7 @@ text-align: center;
    display: inline;
 }
 
-#button_link:hover {
-  color: #F78E69;
+#button_link {
   border: 2px solid black;
   width: 30px;
   height: 20px;
@@ -40,12 +39,14 @@ text-align: center;
   position: relative;
   left: 1em;
 }
+.button:hover {
+  color: #f78e69;
+}
 
 .socialmedia_graphic {
   width:80px;
   height:80px;
-  position:relative;
   float: right;
-  top:200 px;
+  top:100 px;
   z-index: 2;
 }
