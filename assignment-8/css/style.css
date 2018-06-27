@@ -43,7 +43,7 @@ text-align: center;
 .socialmedia_graphic {
   width:80px;
   height:80px;
-  position:absolute;
+  position:relative;
   float: right;
   top:200 px;
   z-index: 2;
