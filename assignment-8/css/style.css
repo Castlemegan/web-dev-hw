@@ -39,7 +39,7 @@ text-align: center;
   left: 1em;
 }
 .button:hover {
-  color: #f78e69;
+  background-color: #f78e69;
 }
 
 .socialmedia_graphic {
