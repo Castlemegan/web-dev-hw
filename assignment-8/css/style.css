@@ -36,7 +36,7 @@ text-align: center;
   background-color: #0BC9CD;
   font-family: 'Pacifico', cursive; serif;
   color: black;
-  display: inline;
+  top: 150px;
   float: left;
   top: 45%;
 }
