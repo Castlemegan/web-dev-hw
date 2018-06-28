@@ -16,14 +16,16 @@ text-align: center;
 }
 .list {
    border: 2px dotted black;
-   width: 300px
+   width: 200px
    height: 300px;
    padding: 1em;
-   placement: relative;
+   position: relative;
    left:30px;
    background-color: #f1bb87;
    margin: 5%;
    z-index: 0;
+   position: relative;
+   display: inline-block;
 }
 
 #button_link {
@@ -48,6 +50,6 @@ text-align: center;
   height:80px;
   position: absolute;
   top:150px;
-  left: 60%;
+  left: 40%;
   z-index: 2;
 }
