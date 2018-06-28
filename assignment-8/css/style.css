@@ -46,7 +46,8 @@ text-align: center;
 .socialmedia_graphic {
   width:80px;
   height:80px;
-  float: right;
-  top:100 px;
+  position: absolute;
+  top:150px;
+  left: 60%;
   z-index: 2;
 }
