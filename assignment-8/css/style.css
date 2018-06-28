@@ -21,6 +21,7 @@ text-align: center;
    padding: 1em;
    position: relative;
    left:30px;
+   top: 15%;
    background-color: #f1bb87;
    margin: 5%;
    z-index: 0;
@@ -38,7 +39,7 @@ text-align: center;
   color: black;
   display: inline;
   position: relative;
-  left: 1em;
+  left: 10px;
   top: 40%;
 }
 .button:hover {
@@ -52,4 +53,5 @@ text-align: center;
   top:150px;
   left: 40%;
   z-index: 2;
+  opacity: 75%;
 }
