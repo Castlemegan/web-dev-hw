@@ -37,6 +37,7 @@ text-align: center;
   display: inline;
   position: relative;
   left: 1em;
+  top: 40%;
 }
 .button:hover {
   background-color: #f78e69;
